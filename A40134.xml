@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christ's light the only antidote to overcome and expel the poison of Satans greatest temptations also a measuring rule concerning liberty and persecution, and who have been the persecutors and who have been the sufferers from the beginning.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40134</idno>
+            <idno type="STC">Wing F1761</idno>
+            <idno type="STC">ESTC R30468</idno>
+            <idno type="EEBO-CITATION">11327277</idno>
+            <idno type="OCLC">ocm 11327277</idno>
+            <idno type="VID">47473</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40134)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47473)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1460:50)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christ's light the only antidote to overcome and expel the poison of Satans greatest temptations also a measuring rule concerning liberty and persecution, and who have been the persecutors and who have been the sufferers from the beginning.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Geo. Fox.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inner Light.</term>
+               <term>Society of Friends --  Doctrines.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47473:1"/>
+            <pb facs="tcp:47473:1" rendition="simple:additions"/>
+            <p>Chriſts Light THE ONLY ANTIDOTE TO OVERCOME and EXPEL the Poiſon of Satans greateſt TEMPTATIONS.</p>
+            <p>ALSO, A Meaſuring-Rule CONCERNING LIBERTY AND PERSECUTION.</p>
+            <p>And who have been the PERSECUTORS, and who have been the SUFFERERS from the beginning.</p>
+            <p>Printed in the Year, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:47473:2"/>
+            <pb n="3" facs="tcp:47473:2" rendition="simple:additions"/>
+            <head>Chriſt's Light the onely Antidote to Overcome and Expel the Poiſon of Satans greateſt Temptations.</head>
+            <p>THe ground of Deſperation is out of the Light,<note place="margin">
+                  <hi>Gen.</hi> 4.8.</note> for <hi>Cain</hi> when he Deſpaired went from the Light, that killed the juſt; he that killed the juſt within, killed the juſt without: And <hi>Eſau</hi> who deſpiſed his birth<g ref="char:EOLhyphen"/>right, who was a profane perſon, did ſeek to kill the juſt; and he that roſe up againſt the beloved of God, <hi>David,</hi>
+               <note place="margin">2 <hi>Sam.</hi> 28.15. <hi>&amp;</hi> 31.4 <hi>Mat.</hi> 27.5.</note> who deſpaired, there he roſe up againſt the juſt: And the <hi>Jews</hi> did deſpair, and doubted, they did not believe in the Light, and were againſt the juſt, though they profeſſed all the Scrip<g ref="char:EOLhyphen"/>tures; and <hi>Judas</hi> which deſpaired, turned from Chriſt the Light to the changeable Prieſt; ſo the cauſe of deſparation is going from the Light, for that which will preſume will de<g ref="char:EOLhyphen"/>ſpair, which riſeth up in that nature which acts contrary to the Light, and that is it which wanders to and fro, up and down, and hunts abroad, and builds that which God con<g ref="char:EOLhyphen"/>founds. <hi>I am the light of the world,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 25 27.</note> 
+               <hi>and doth enlighten every one that comes into the World,</hi> ſaith Chriſt, he by whom the world was made: Now every one being enlightened with the Light that comes from him who is not of the world, who was tempted in the world to make himſelf away, who was tempted to luſt after the Creatures, who was tempted to worſhip the Devil, who is out of the Truth, but overcame all:<note place="margin">
+                  <hi>Luk.</hi> 4.9. <hi>&amp;</hi> 6, 5, 8.</note> Now every one of you that come into the world, having a Light from him that is not of this world, that was thus temp<g ref="char:EOLhyphen"/>ted, who entered not into the temptation; it is not a ſin to be tempted, for he was tempted, but to enter into the temptati<g ref="char:EOLhyphen"/>on: So if you ſee temptations with the Light that comes from Chriſt, the Light, the Truth, and the Life; look at him who was tempted, who overcame the temptations,<note place="margin">
+                  <hi>Heb.</hi> 4.15.</note> who was not of the world; having a Light from him whoſe name is called <hi>The Word of God,</hi> who ſaith, <hi>If thou keep my word,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 3.10.</note> 
+               <hi>I will keep <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ee in the hour of temptation, which ſhall come upon all the world,
+<pb n="4" facs="tcp:47473:3"/>and it ſhall not come near thee, which ſhall come to try all that dwell upon the earth:</hi> For having a Light from the Word by which all things was made, and keeping the Word, the power is re<g ref="char:EOLhyphen"/>ceived againſt all temptations, and they ſhall not come nigh. Art thou tempted to make away thy ſelf?<note place="margin">
+                  <hi>Rev.</hi> 3.8.</note> ſo was Chriſt. Look not at the temptations, but look at Chriſt, and there thou wilt receive power.<note place="margin">
+                  <hi>Luk.</hi> 4.3.</note> Art thou tempted to the Creatures? doth the Devil, he that is out of the Truth, who is a deſtroyer, tempt thee to the Creatures?<note place="margin">
+                  <hi>Luk.</hi> 4.7.</note> ſo was Chriſt, he by whom all things was made. Art thou tempted to worſhip the Devil? Doth the Devil who is out of the Truth tempt thee to wor<g ref="char:EOLhyphen"/>ſhip him,<note place="margin">
+                  <hi>Heb.</hi> 2.10.</note> look to Chriſt, he was tempted, who overcame: Look to him who overcame,<note place="margin">
+                  <hi>Joh.</hi> 14.6.</note> he is the Captain of our Salvati<g ref="char:EOLhyphen"/>on: So every one having a Light from Chriſt Jeſus, which is given to him to watch, and to pray, and to ſeek, and to knock after Chriſt, who is the Door, the Way, the Life, the Cove<g ref="char:EOLhyphen"/>nant of Peace: So look not at the temptations, but at Chriſt, neither be troubled at them; but look to him from whom your ſtrength comes,<note place="margin">
+                  <hi>Iſa.</hi> 45.22.</note> that lets you ſee them, and there ſtand ſtill, for there Salvation is received, and your ſtrength. Have you made a Covenant with death,<note place="margin">
+                  <hi>Iſa.</hi> 28.16, 17, 18.</note> who contrary to the Light in your Conſciences, have acted? Have you made Cove<g ref="char:EOLhyphen"/>nants with Hell, and the Grave, and Satan, which is out of the Light,<note place="margin">
+                  <hi>Iſa.</hi> 42.6.</note> out of the Truth; and that is the Devil that is out of the Truth, the deſtroyer, the devourer. Therefore being turned to the Light which comes from Chriſt, the Covenant of God,<note place="margin">
+                  <hi>Iſa.</hi> 49.9.</note> God's Covenant of Light, there waiting, the Cove<g ref="char:EOLhyphen"/>nant of death is broken, and in it believe, for there Gods mercy is received, againſt which Covenant Hell gates can<g ref="char:EOLhyphen"/>not prevail, let her open her mouth never ſo wide; and all the bonds of iniquity, promiſes which you have made with the fleſhly mind, and the luſts being turned to the Light, the Covenant of Life breaks all the bonds and the promiſes of the fleſhly mind: Therefore in patience wait in the Light which comes from Chriſt, the Covenant of peace which ye may receive,<note place="margin">
+                  <hi>Lam.</hi> 3.26.</note> to have peace with God; and never look at the temptations, but at the Light which ſhews them, and there ſtand ſtill to receive power from him, from whom all power
+<pb n="5" facs="tcp:47473:3" rendition="simple:additions"/>is received; for that which is out of the Truth, that tempts to draw from the Light, and from the Truth, and out of it; therefore every one having the Light from Chriſt, who is not of the world, which is come into the world, that will let you ſee the temptations. <hi>Thou that keepeſt my word,</hi>
+               <note place="margin">
+                  <hi>John</hi> 17 16.</note> 
+               <hi>they ſhall not come nigh thee, but power ſhall be received to trample upon all.</hi> And the worſhip in the Spirit and Truth will be known,<note place="margin">
+                  <hi>Rev.</hi> 5.10.</note> and the wiſdom by which all the Creatures were created, will be received, with it to uſe them to the glory of God,<note place="margin">
+                  <hi>John</hi> 8.44.</note> to which end they were created; and that which is out of the Truth, which tempts to murther,<note place="margin">
+                  <hi>Mat.</hi> 11 29.</note> for that is the murtherer which is out of the Truth, and out of the Light, will with the Light be ſeen, judged, and condemned; but before he will lift up, and exalt, and the ſame will bring to deſpair: But learn of Chriſt the Light, who is meek and lowly, and he is kept out and down, who is out of the Light: But before this he will tempt into the creatures, to get into the creatures, he who from the Light, and from the Life, and ſo a devourer of them, and ſo out of the wiſdom by which they were created; there<g ref="char:EOLhyphen"/>fore as I ſaid before, wait in the Light which comes from Chriſt the Life, that with it ye may come to receive refreſhing from the Lord; and to know the wiſdom of the Creation, with which it muſt be uſed to the glory of the Creator. So having a Light from him by whom the world was made, to whom all power in Heaven and Earth is given; wait in the Light, from him to receive power, which brings out of the worlds luſts and defilements,<note place="margin">
+                  <hi>John</hi> 9.51.</note> which the Light which cometh from him will ſhew you all the temptations to the creatures, or obeying the will of him that is out of the Truth, but you will come to know the right uſe of the creatures, waiting in the Light; ſo wait for power from the Lord in the Light (which ſhews you all temptations) which comes from the Lord, for power to ſtand againſt all temptations;<note place="margin">
+                  <hi>Mat.</hi> 13 33.</note> and ſo that all may be condemned with the Light, that is contrary to it; and ſo you may come to witneſs the leaven that leavens into the new lump, and ſee him that makes interceſſion,<note place="margin">
+                  <hi>Heb.</hi> 7.25.</note> who is able to ſave to the utmoſt;<note place="margin">1 <hi>Cor.</hi> 10.13.</note> and ſo with the Light you will ſee there is no temptation you are taken with, but which is common to man.
+<pb n="6" facs="tcp:47473:4"/>So if you mind the Light, and in it ſtand, you will ſee the Lord giving iſſue, whereby you will find deliverance ſtanding in the Light, which comes from the word, which is as a fire, and a hammer, and a ſword, which beats down that which is contrary to the Truth,<note place="margin">
+                  <hi>Jer.</hi> 23.29.</note> divides and burns up, which keeping the word the temptations will not come nigh, but the word of reconciliation be witneſſed, and the word of faith which makes clean and purifies,<note place="margin">2 <hi>Cor.</hi> 5.10.</note> and ſanctifies: Where the old Gar<g ref="char:EOLhyphen"/>ment is put off, and the knowledge in the fleſh denied, and the knowing in the Life in the Spirit, where nothing comes to reign but Life and Power, where all is overturned, and with the power of the Lord comprehended, the dread and life of the living God, to whom be all honour and glory forever.</p>
+            <div type="part">
+               <head>A Meaſuring-Rule concerning Liberty and Perſecution.</head>
+               <p>CHriſtians ſhould love one another, that is the Command of Chriſt, and is a mark by which they are known to be his diſciples. Secondly, they ſhould love their very ene<g ref="char:EOLhyphen"/>mies; and by this they differ from the <hi>Jews</hi> and Heathens, and all other people.</p>
+               <p>Now as for the late Act concerning the people of God cal<g ref="char:EOLhyphen"/>led <hi>Quakers,</hi> there is no penalty laid upon any man for the not breaking up of their Meetings, or not putting the Oath to them; therefore it will try and manifeſt what ſpirit men are of, and that which is in people will be made manifeſt now, becauſe the Act is leſt to the Executor of it, without any pe<g ref="char:EOLhyphen"/>nalty: Which Act had it been in the dayes of the Apoſtles, would have taken hold of Chriſt and his Apoſtles; for he had <hi>Twelve</hi> that often met together; and by this he might have but <hi>three,</hi> for if there were <hi>five,</hi> it had been in the tranſgreſſi<g ref="char:EOLhyphen"/>on; who alſo had ſeventy Diſciples more. Now I ſay, if it had been in the days of Chriſt, it would have taken hold of him and his Diſciples. Would Chriſt (and his Diſciples) the Wiſdom of God, do you think, have obeyed this Act, and not met with his Diſciples? Or if the <hi>Jews</hi> ſhould have made Laws to limit him but to four, do you think that Chriſt the
+<pb n="7" facs="tcp:47473:4" rendition="simple:additions"/>Wiſdom of God would have obeyed it, or his Diſciples? And alſo Chriſt ſaid to his Diſciples, that they ſhould wait together at <hi>Jeruſalem</hi> and not depart; and they did meet together, and you know that their meetings were different from the <hi>Jews</hi> and heathen; and they were to wait together at <hi>Jeruſalem</hi> until they received power from on high, before they were to go to gather the Churches: And this was according to the wiſdom of God; Which if the <hi>Jews</hi> now had ſpoken to them that they ſhould not meet, do you think the diſciples would have obey<g ref="char:EOLhyphen"/>ed them, or the command of Chriſt? And when the Apoſtles had gathered Churches out of the <hi>Jews</hi> and the <hi>Gentiles,</hi> and ſetled them, to whom they wrote their Epiſtles, and builded up one another in the holy Faith, and not to forſake the aſſem<g ref="char:EOLhyphen"/>bling of themſelves together: For if we ſin wilfully after we have received the knowledge of the Truth, then conſider what is to be looked for: [So now mark] if the <hi>Jews</hi> or the Heathen out of whom the <hi>Hebrews,</hi> the <hi>Galatians,</hi> the <hi>Coloſſians,</hi> the <hi>Theſſalonians</hi> and the <hi>Corinthians,</hi> were gathered into ſeve<g ref="char:EOLhyphen"/>ral Churches; if the Heathen and <hi>Jews</hi> had made Laws againſt them, that they ſhould not meet ſaving four, do you think they would have obeyed it? Therefore conſider of theſe things, and do as you would be done by, that is the Law and the Pro<g ref="char:EOLhyphen"/>phets: Did not many ſuffer in the ten Perſecutions for meet<g ref="char:EOLhyphen"/>ing together, in the time about 650 years, before there was a Pope? And hath not many ſuffered for meeting together, by the <hi>Papiſts</hi> ſince; as look through the Book of Martyrs, how they ſuffered by the <hi>Papiſts,</hi> and called them <hi>Conventicles;</hi> and alſo in the time of the Martyrs ſufferings in the ten Perſecuti<g ref="char:EOLhyphen"/>ons, and ſince the ten Perſecutions, did they not make Laws they ſhould not meet? And did they not call them <hi>Conventi<g ref="char:EOLhyphen"/>cles?</hi> And yet did they not meet in Barns or Houſes, Woods and Fields? as you may read in the Book of Martyrs? Were theſe Martyrs diſobedient in the ten Perſecutions, and ſince to the Papiſts, in which ſo many thouſands ſuffered for meet<g ref="char:EOLhyphen"/>ing together, for not paying Tythes, and for not ſwearing, and not yielding to their Principles and practice that perſecuted them: Was it evil in them that perſecuted them? And is it good now in you that make us to ſuffer for the ſame things?
+<pb n="8" facs="tcp:47473:5"/>So are the Martyrs, and Perſecutors, and you one, or the Mar<g ref="char:EOLhyphen"/>tyrs and we one, who have ſuffered all along? Whether they have not the nature of the Heathen that make to ſuffer, and not the nature of the Apoſtles? Likewiſe, have not many ſuf<g ref="char:EOLhyphen"/>fered here, as we now, for meeting together, and not ſwear<g ref="char:EOLhyphen"/>ing now in theſe dayes? As conſider, in <hi>Oliver's</hi> days above three thouſand ſuffered Impriſonment, and ſome to death, who ſuffered for not Swearing, and for Conſcience-ſake, as many of the Martyrs in the Time of the ten Perſecutions did, and by the Papiſts, and as we do now.</p>
+               <p>Therefore conſider theſe things, for it is Chriſts command that we do obey, and the Apoſtles Doctrine which ſaith, <hi>Swear not at all:</hi> Conſider now, would not they in the ten Perſecuti<g ref="char:EOLhyphen"/>ons, and the <hi>Papiſts,</hi> have puniſh'd Chriſt for preaching this Doctrine, and made him to ſuffer, (as we do now that own it) which ſaith, <hi>Swear not at all,</hi> but let your <hi>yea</hi> be <hi>yea,</hi> and your <hi>nay, nay,</hi> &amp;c. and the Apoſtles for holding it forth; for we do not theſe things in contempt or rebellion to any man; for our love and tenderneſs is, that all Magiſtrates and People would live in God's fear, and receive his Wiſdom, by which all things were made and created, that by that they might be or<g ref="char:EOLhyphen"/>dered to God's glory, and order that which God hath given them under their hands, to his honour, that to God they may be a bleſſing in their generation.</p>
+               <p>And conſider, <hi>Daniel</hi> and the three children met, and diſo<g ref="char:EOLhyphen"/>beyed the King's command; and <hi>Mordecai,</hi> who would not bow, diſobeyed the Kings command; and the Midwives diſo<g ref="char:EOLhyphen"/>beyed <hi>Pharaoh</hi>'s command for not putting the Children to death: And the Woman who had ſeven ſons which ſuffered by the Kings Law, becauſe they would not eat Swins fleſh, and one of her ſons ſpake to his Mother, <hi>I will not obey the Kings command, I will obey the Law of</hi> Moſes, <hi>which our fore-fathers o<g ref="char:EOLhyphen"/>beyed.</hi> And <hi>Daniel</hi> diſobeyed <hi>Darius</hi> his command, which was, that <hi>Daniel</hi> ſhould not pray; and he prayed, &amp; did not obey his command. And the Apoſtles diſobeyed the High Prieſts and Counſels command, when they charged them that they ſhould ſpeak no more in that Name: Yet in the thing that is good, juſt and righteous, the righteous alwayes have been, and are
+<pb n="9" facs="tcp:47473:5" rendition="simple:additions"/>ever ſubject to every Ordinance of man for the Lord's ſake, to ſuch as were for the puniſhment of evil-doers, and for the praiſe of them that do well, that they might live a godly and peaceable life, [Mark] a peaceable life; for this cauſe they both prayed, and paid tribute, not that they ſhould bring them into an ungod<g ref="char:EOLhyphen"/>ly life, and an unpeaceable life, but that they ſhould puniſh the evil-doers, that went into an ungodly life, and unpeaceable; for to that end were the higher Powers ordained over the ungodly, that went into the ungodly and unpeaceable life; for the ungodly are unpeaceable; and this is for the praiſe of them that do well: for the Law was made for tranſgreſſors, &amp; not for the righteous. So they that be in the higher power, are to diſtinguiſh the precious from the vile; for not doing ſo, the Prophet often cried againſt them; and when they turned againſt the righteous, peaceable and godly, then is the ſaying known which the Scripture ſpeaks of, <hi>What ſhall ſeparate us from the love of God? Shall Principalities, or Powers, or Thrones, or Dominions?</hi> Shewing, that there are Prin<g ref="char:EOLhyphen"/>cipalities and Powers that would ſeparate from the Love of God which they had in Chriſt Jeſus, and that is from a godly and peaceable Life; and ſo there is a diſtinction, to be ſubject to that which puniſheth the Evil, and there is a ſuffering by that which would ſeparate from the love of God: Now that which would ſeparate, turns the Sword backwards againſt the righteous; and Perſecutors were alwaies blind, and could never ſee, but run up<g ref="char:EOLhyphen"/>on their friends in ſtead of their foes: And therefore theſe things conſider and diſtinguiſh. God let <hi>Adam</hi> have liberty in the earth, into which he was driven when he diſobeyed his command; and God let <hi>Cain</hi> have liberty in the earth, after he had killed his Brother about Religion; and God let wild <hi>Iſhmael</hi> have liberty in the wilderneſs, after he was put out of <hi>Abrahams</hi> Family, the Father of the faithful; and the Serpent he had his Liberty to feed upon the duſt of the earth. Now I ſay, conſider, who are they who would not have Chriſt the juſt to live upon the earth; were not they them that Chriſt called Serpents, the <hi>Jews,</hi> the great profeſſors? It was not God's mind that people ſhould be put out of the earth: God let <hi>Adam</hi> and <hi>Eve</hi> have liberty in the earth, after they had tranſgreſſed, though they were not to have liberty in the Garden. And <hi>Iſhmael</hi> though he had not liberty in <hi>Abrahams</hi> family, yet he had liberty in the wilderneſs. And <hi>Cain</hi>
+                  <pb n="10" facs="tcp:47473:6"/>though he had not liberty in the preſence of God, yet he had li<g ref="char:EOLhyphen"/>berty to be a wanderer in the land of <hi>Nod.</hi> Therefore conſider what mind that is that would not let men have liberty in the Earth, though he be not of your aſſembly, yet he ſhould have li<g ref="char:EOLhyphen"/>berty in the Earth. Therefore conſider whether that be the mind of God or againſt it, yea or nay, though the juſt comes over all theſe things, and are redeemed from the earth.</p>
+               <p>And if we muſt not meet together, how muſt we ſtir up one a<g ref="char:EOLhyphen"/>nother, and edifie one another, and provoke one another unto love and to good works, if we muſt not meet together to ſpeak one to another. Conſider this with underſtanding.</p>
+               <p>The world ſaith, <hi>Kiſs the Book;</hi> The Book ſaith, <hi>Kiſs the Son leſt he be angry:</hi> And the Son ſaith, <hi>Swear not at all,</hi> but keep to <hi>yea</hi> and <hi>nay in all your communications; for whatſoever is more than this, comes of evil.</hi>
+               </p>
+               <p>The world ſaith, <hi>Lay your hand on the Book;</hi> the Book ſaith, <hi>Handle the Word;</hi> and the Word ſaith, <hi>Handle not the traditions, inventions, nor the rudiments of the world; and, this is my beloved Son, hear ye him,</hi> ſaith God, <hi>who is the Life, and the Truth, and the Light, and the way to God,</hi> who ſaith, <hi>Swear not at all.</hi>
+               </p>
+               <p>Therefore cumber not the ground you adulterers, cumber not the earth you drunkards, cumber not the ground you ſwearers, cumber not the ground you proud vain perſons, cumber not the earth you earthworms, covetous perſons, cumber not the ground you oppreſſors and exactors, and grinders of the poor; cumber not the ground thou perſecutor of the children of the Moſt High, cumber not the ground ye rich gluttons, cumber not the earth you idle perſons, that live in fulneſs of pleaſure, and abundance of idleneſs, as the ſtalled Ox, ſo as he lieth in the mire and dirt; and as the full-fed horſe that muſt be breathed, with pleaſures and ſports, and your games of all ſorts, and call it recreation for your idleneſs, out of the ſervice of the Lord; for thou who art ſo full, thou needeſt not work thy ſelf down by pleaſures, nor go to pleaſures to get thee a ſtomack, if thou wilt work it down with labour; work and chaſtity keeps all ſweet, and labouring in the fear of the Lord.</p>
+               <p>
+                  <hi>Cain,</hi> the firſt birth, a perſecutor, the firſt birth, a falſe worſhip<g ref="char:EOLhyphen"/>per; and <hi>Cain</hi> the firſt birth, that falſe worſhipper, turned and turn<g ref="char:EOLhyphen"/>eth againſt <hi>Abel;</hi> and <hi>Cain</hi> the firſt birth, out of his ſtock came
+<pb n="11" facs="tcp:47473:6" rendition="simple:additions"/>up the falſe worſhipper, who was the inventer of <hi>Harps</hi> &amp; <hi>Organs.</hi>
+               </p>
+               <p>
+                  <hi>Nimrods</hi> ſtock, falſe worſhippers, and out of <hi>Ham's</hi> ſtock he came, whoſe ſpirit was not covered with truth, but with that which was from the truth; and ſo that ſpirit which runs from the truth, is not like <hi>Shem</hi> nor <hi>Japhet,</hi> and ſuch worſhip not God in the ſpirit.</p>
+               <p>And they of the old world, that went from the ſpirit of the Lord, and grieved his ſpirit, they could not worſhip God in the ſpirit.</p>
+               <p>And the <hi>Philiſtines</hi> grieved the ſpirit of the Lord, and they were the perſecutors, and they turned againſt the juſt.</p>
+               <p>And the <hi>Sodomites</hi> were the perſecutors of the juſt, and the <hi>So<g ref="char:EOLhyphen"/>domites</hi> were ſuch as lived in abundance of idleneſs and fulneſs, and thoſe that were idle and full, perſecuted the righteous and the juſt, and the true worſhippers; and they that did, and do ſo, are the falſe worſhippers.</p>
+               <p>And <hi>Iſhmael</hi> and his ſtock, the firſt birth, who ſcoffed at the juſt, and turneth againſt the juſt, a perſecutor; and ſo are all wild men now.</p>
+               <p>And <hi>Eſau</hi> the firſt birth, the prophane perſon, a falſe worſhip<g ref="char:EOLhyphen"/>per, a perſecutor of <hi>Jacob;</hi> as many <hi>Eſaus</hi> now, perſecute them whom God loveth, who hate the firſt birth, (being perſecutors, prophane, falſe worſhippers) whom God loveth not.</p>
+               <p>And the <hi>Aegyptians</hi> were, and are perſecutors, and of the firſt birth.</p>
+               <p>And <hi>Balaam</hi> was a perſecutor of the juſt, and <hi>Balaam</hi> loved the wages of unrighteouſneſs; and ſuch <hi>Balaams</hi> are now the lovers of the wages of unrighteouſneſs, and the perſecutors.</p>
+               <p>And the <hi>Jews</hi> that profeſſed the Law, the words of God, and did live out of the life of the Law of God, ſuch did and do perſe<g ref="char:EOLhyphen"/>cute the juſt; and ſuch profeſſors were alwaies, and now are per<g ref="char:EOLhyphen"/>ſecutors.</p>
+               <p>And alwaies ſuch as preached for hire, and devined for money, and taught for filty lucre, and ſuch Shepherds, Biſhops and Prieſts that taught for the fleece and the wool, and for handfuls of bar<g ref="char:EOLhyphen"/>ley, and for pieces of bread, and were covetous; ſuch were and are perſecutors and falſe worſhippers, and perſecutors of the juſt, and the true worſhippers of God in the ſpirit, and they that did ſo, grieved it.</p>
+               <pb n="12" facs="tcp:47473:7"/>
+               <p>And the Scribes, Phariſees and chief Prieſts, that had the Pro<g ref="char:EOLhyphen"/>phets and the Saints words, and were not in the life of the Law and the Prophets and Saints, and yet did profeſs their words, ſuch did and do perſecute the juſt, them that be in the life of the Saints.</p>
+               <p>And alſo, likewiſe all Chriſtians that do profeſs the Prophets and Chriſt, and the Apoſtles, and <hi>Moſes,</hi> and the Saints words, and be out of their life &amp; ſpirit, are the falſe worſhippers, and are the perſecutors of the juſt, and that is the end of all the profeſſion without the Life and the Spirit of God that the Saints dwell and walk in, who are the true worſhippers of God in the Spirit and Truth; <hi>and ſuch as are led by the Spirit of God, they are the ſons of God;</hi> and the falſe worſhippers are ſuch as grieve the Spirit of God, and yet will get the Saints words, and the ſheeps cloathing, and not live in their life.</p>
+               <p>The firſt birth liveth in the kingdom of the world, in <hi>ſtrife,</hi> a <hi>Perſecutor:</hi> The <hi>firſt birth</hi> is a birth of <hi>ſtrife,</hi> &amp; the ſecond birth is heir of the Kingdom of the Lord; and the fruits of this birth is love, <hi>&amp;c.</hi> Therefore come out of the firſt birth, to the ſecond.</p>
+               <p>
+                  <hi>Cain, Ham, Nimrod, Iſhmael, Eſau, Balaam, Sadomites, Phili<g ref="char:EOLhyphen"/>ſtines, Phariſees, chief Prieſts, Babylon;</hi> were not theſe envious, wild, prophane, idle, covetous, oppreſſors, perſecutors, falſe wor<g ref="char:EOLhyphen"/>ſhippers; and ſo you that be of the ſame nature, and of the ſame birth, was it not, and is it not the firſt birth? If it be ſo, know your own Kindred, and come out of this Kindred.</p>
+               <p>
+                  <hi>Scoffers, Scorners, Mockers, Reproachers, Revilers, Brawlers, Railers, envious Men,</hi> Do you profeſs God and Chriſt? Theſe be all evil weeds, and cumbers God's ground. The <hi>Babylonites</hi> were, and are perſecutors of the Juſt, and the true Worſhippers of God; and the <hi>Babylonites</hi> build up, and throw down, who be out of the ſtanding Power, Life and Spirit of God, which the Apoſtles and we are in; and ſo are not upon the Rock Chriſt Jeſus upon which we are, that changeth not.</p>
+            </div>
+            <closer>
+               <signed>GEO. FOX.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:47473:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
